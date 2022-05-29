@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849220805204",
+    "firebase_url": "https://tellmeapp-1f6b6-default-rtdb.firebaseio.com",
+    "project_id": "tellmeapp-1f6b6",
+    "storage_bucket": "tellmeapp-1f6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849220805204:android:0222c3bdcc73f79056c3c1",
+        "android_client_info": {
+          "package_name": "com.tellmeapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849220805204-8avofnh9atjpaql7ggsq08o6pluhu83q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxg9ugF6GX1abFsLvTSY1fc_r7WZsfNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849220805204-8avofnh9atjpaql7ggsq08o6pluhu83q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
